@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Health Monitoring</string>
+    <string name="calculatebmi">calculateBmi</string>
+    <string name="enter_height_in_feet">enter_height_in_feet</string>
+    <string name="enter_weight_in_kg">enter_weight_in_kg</string>
+    <string name="bmicalclator">bmicalclator</string>
+    <string name="no_alarm_set">No Alarm set</string>
+    <string name="cancel_alarm">cancel alarm</string>
+    <string name="open_time_picker">open time picker</string>
+    <string name="textview">TextView</string>
+    <string name="get_health_suggestion">Get Health Suggestion</string>
+    <string name="enter_tablet_name">Enter tablet name</string>
+    <string name="todo">TODO</string>
+    <string name="tablet_notification">tablet notification</string>
+    <string name="writehere">writehere</string>
+
+</resources>
